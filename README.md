@@ -236,3 +236,11 @@ Based on 2023-2024 trends:
 - Key artists still deliver (Taylor Swift, Olivia Rodrigo, Justin Bieber)
 - **Recommendation:** Seek fresh talent, innovate sound, leverage holiday Q4
 
+---
+
+## Dashboard Overview
+-<a href="https://github.com/Donovandonz/Excel--top-Spotify-artist-analysis/blob/main/Top-Spotify-Artist-Dashboard.png">Top-artist-song-dashboard</a>
+
+<img width="1547" height="1268" alt="Top-Spotify-Artist-Dashboard" src="https://github.com/user-attachments/assets/ca99ef74-c4fd-4ed2-9fec-3a666960e099" />
+
+
